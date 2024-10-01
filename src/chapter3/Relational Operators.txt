@@ -1,0 +1,18 @@
+Operators
+__________
+
+>   ->  Greater than
+<   ->  Lower than
+==  ->  Equal to
+>=  ->  Greater than and equal to
+<=  ->  Less than and equal to
+!+  ->  Not Equal to
+
+.equals()   ->  to check the strings
+
+
+Logical Operators
+_________________
+
+&&  ->  AND ->  both conditions must be true
+||  ->  OR  ->  at least one condition must be true
